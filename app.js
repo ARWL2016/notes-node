@@ -10,10 +10,10 @@ const notes = require('./notes.js');
 var filteredArray = _.uniq(["Ann", "Ann", 1, 2, 3, 4, 2, 3]);
 console.log(filteredArray);
 
-// var res = notes.add(9, -2);
-// console.log(`The result is ${res}`);
+var res = notes.add(9, 10);
+console.log(`The result is ${res}`);
 
-// var user = os.userInfo(); 
+var user = os.userInfo(); 
 
-// fs.appendFile('greetings.txt', `Hello ${user.username}. You are ${notes.age}.\n`);
+fs.appendFile('greetings.txt', `Hello ${user.username}. You are ${notes.age}.\n`);
 

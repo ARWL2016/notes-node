@@ -8,5 +8,5 @@ module.exports.addNote = () => {
 
 module.exports.add = (a, b) => {
     console.log('Add function called');
-    return a + b; 
+    return a * b; 
 }
