@@ -4,11 +4,6 @@ const fs = require('fs');
 const _ = require('lodash'); 
 const yargs = require('yargs');
 
-<<<<<<< HEAD
-
-
-
-=======
 const notes = require('./notes.js');
 
 const argv = yargs.argv; 
@@ -30,5 +25,3 @@ if (command === 'add') {
 } else {
     console.log('Command not recognized');
 }
->>>>>>> e0db67061408fab42e64fd40089d88cafa8c8bf6
-
