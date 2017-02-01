@@ -48,16 +48,12 @@ var removeNote = (title) => {
     return notes.length !== filteredNotes; 
 };
 
-<<<<<<< HEAD
-
-=======
 var logNote = (note) => {
     debugger; 
     console.log("------------------");
     console.log(`Title: ${note.title}`);
     console.log(`Body: ${note.body}`);
 };
->>>>>>> 602a6f14240bcd9aa52415eb58108cbbdb439e19
 
 module.exports = {
     addNote, 

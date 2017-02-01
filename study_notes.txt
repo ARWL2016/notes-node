@@ -1,1 +1,0 @@
-Using npm start seems to break the yargs return object. The array still registers but the tagging does not produce property-value pairs.
