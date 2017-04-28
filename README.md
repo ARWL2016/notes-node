@@ -1,12 +1,8 @@
-###Complete Node - Notes App
-
+###Complete Node - Notes App (Udemy: Mead, Section 3)
+ 
 https://github.com/ARWL2016/notes-node 
 https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/content 
-
-- Udemy   
-- Andrew Mead   
-- Section 3   
-
+ 
 Technology   
 1. Yargs 
 2. Lodash
